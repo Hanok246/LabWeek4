@@ -1,0 +1,23 @@
+*{
+
+}
+
+.forum{
+    font-size: 16px;
+    margin-left: 15px;
+}
+
+.submit_button{
+    cursor: pointer;
+    margin-top:6px;
+    margin-bottom:6px;
+}
+
+.submit_button:hover{
+    background-color:rgb(255, 255, 255);
+}
+
+.radio_{
+    margin-top:2px;
+    margin-bottom:2px;
+}
